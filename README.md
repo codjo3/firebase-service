@@ -8,7 +8,7 @@ A Roblox Lua module that enables server-side communication with Firebase Realtim
 Add to your `wally.toml`:
 ```toml
 [dependencies]
-FirebaseService = "codjo3/firebase-service@0.2.0"
+FirebaseService = "codjo3/firebaseservice@0.2.0"
 ```
 Then run:
 ```bash
