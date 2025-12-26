@@ -1,5 +1,5 @@
 # Firebase Realtime Database for Roblox
-
+<p align="center"><img src="thumbnail.png" height="200"></p>
 A Roblox Lua module that enables server-side communication with Firebase Realtime Database through Google Apps Script authentication. Features full CRUD operations, query parameters, and automatic token refresh.
 
 ## Installation
