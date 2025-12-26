@@ -1,0 +1,18 @@
+[package]
+name = "codjo3/firebaseservice"
+description = "Roblox module that enables server-side communication with Firebase Realtime Database through Google Apps Script authentication, supporting CRUD operations (create, read, update, delete) with query parameters and automatic token refresh"
+license = "MIT"
+version = "0.2.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = [
+    "**",
+]
+include = [
+    "default.project.json",
+    "src",
+    "src/**",
+    "wally.toml"
+]
+
+[dependencies]
